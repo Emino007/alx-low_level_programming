@@ -1,8 +1,7 @@
 #include <stdio.h>
  /**
- * main:'with proper grammar,\but the outcome is a piece of art.
- * use printf
- * return:'0'
+ * main - a program that prints a line using the printf function
+ * return: 0 (success)
  */
 int main(void)
 {
